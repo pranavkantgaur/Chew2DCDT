@@ -1,0 +1,4 @@
+This project implements Chew's algorithm for the solution to the following problem:
+Given an input PSLG G and a minimum angle threshold alpha* compute a refinement G' such that all angles of all triangles of the Constrained Delaunay triangles of G' are larger that alpha*.
+
+
